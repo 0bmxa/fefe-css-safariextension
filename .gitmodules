@@ -1,0 +1,3 @@
+[submodule "FefeCSS.safariextension/fefe.css"]
+	path = FefeCSS.safariextension/fefe.css
+	url = https://github.com/hukl/fefe.css/
